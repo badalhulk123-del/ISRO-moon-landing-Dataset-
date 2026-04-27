@@ -16,7 +16,7 @@ st.markdown("Data Analysis of ISRO Moon Landing")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/mission_data.csv")
+    df = pd.read_csv("mission_data.csv")
     return df
 
 df = load_data()
