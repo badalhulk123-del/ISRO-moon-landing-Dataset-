@@ -1,0 +1,12 @@
+timestamp,altitude,velocity,fuel_remaining,phase,thruster_power
+0,30,1680,100,descent,80
+1,28,1600,98,descent,82
+2,25,1500,95,descent,85
+3,20,1300,90,descent,88
+4,15,1000,85,braking,92
+5,10,700,78,braking,95
+6,7,500,70,hover,90
+7,5,300,65,hover,85
+8,3,150,60,landing,80
+9,1,50,58,landing,75
+10,0,0,57,landed,0
