@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Title
-st.title("🚀 Chandrayaan-3 Mission Dashboard")
+st.title("Chandrayaan-3 Mission Dashboard")
 st.markdown("Data Analysis of ISRO Moon Landing")
 
 # Load data
@@ -80,4 +80,4 @@ st.dataframe(filtered_df, use_container_width=True)
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ using Streamlit")
+st.markdown("Built with ❤️")
